@@ -1,0 +1,6 @@
+Task 0: worst case runtime is O(1) because array random access is an O(1) operation
+Task 1: the worst case runtime complexity is O(n^2) because I assume creating a set is an O(n^2) operation
+Task 2: worst case runtime should be O(nlog(n)) because sorting is the most time consuming operation here
+Task 3.a: worst case runtime is O(n^2) because that might be the worst case of constructing a set
+Task 3.b: worst case runtime is still O(n^2) because constructing of a set is still the most time consuming operation
+Task 4: worst case runtime is O(n^4) because I check if each element callers against all the other lists
